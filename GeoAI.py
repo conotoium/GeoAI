@@ -30,7 +30,7 @@ leave = ["q", "quit"]
 
 chat = model.start_chat()
 
-quest1 = (f"Describe the following location in a general sense, with any costs represented in AUD, including local attractions(include admission cost details), accomodation costs(include hotels, airbnbs, motels, etc) costs, food costs, public transport. Then give estimates for a day's cost, ranging from low to high.\n The Location is {location.address}. The number of people going is {ppl}, The time in days at the location is {daycount}, The estimated maximum budget is {bugit} AUD. Use html based formatting and utilise inline css to highlight key details (i.e. use red for exceeds budget). Ensure to declare doctype. Include tables to make it more visually appealing. Format css in darkmode style")
+quest1 = (f"Describe the following location in a general sense, with any costs represented in AUD, including local attractions(include admission cost details), accomodation costs(include hotels, airbnbs, motels, etc) costs, food costs, public transport. Then give estimates for a day's cost, ranging from low to high.\n The Location is {location.address}. The number of people going is {ppl}, The time in days at the location is {daycount}, The estimated maximum budget is {bugit} AUD. Use the github style markdown format and utilise tables and colours, fonts to make it look nice.")
 
 try:
     response = chat.send_message(quest1)
