@@ -18,7 +18,7 @@ There are two ways to use this:
 - Input the gemini API key every time.
 - Create a .env in the same directory and input your API key there.
 
-Run with python (i.e. python3 GeoAI.py)
+Run with python (i.e. run `python3 GeoAI.py`)
 
 
 # Example output
