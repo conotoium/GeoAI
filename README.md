@@ -25,7 +25,7 @@ Run with python (i.e. run `python3 GeoAI.py`)
 
 
 
-# Roma, Italy: 4-Day Trip for 4 People (Budget: $4000 AUD)
+## Roma, Italy: 4-Day Trip for 4 People (Budget: $4000 AUD)
 
 This document outlines a potential itinerary and cost breakdown for a 4-day trip to Rome for four people, with a maximum budget of $4000 AUD.  Note that prices are estimates and can vary depending on the season, availability, and your choices.  Exchange rates are also subject to fluctuation;  this is based on a current (but potentially changing) AUD to EUR rate.
 
