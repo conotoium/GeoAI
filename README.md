@@ -1,5 +1,10 @@
 # GeoAI
 
+> [!NOTE]
+> This tool runs in command line.<br>
+>This tool requires a Gemini API key.<br>
+> This tool is not tested with OpenAI Api's, but should be fairly easy to change over.
+
 This tool uses gemini generative AI to assist in the trip planning process.
 It was originally intended as a utility for another of my projects, And I decided to seperate it as a standalone.
 
@@ -20,10 +25,9 @@ There are two ways to use this:
 
 Run with python (i.e. run `python3 GeoAI.py`)
 
+### A contonium365 Creation.
 
 # Example output
-
-
 
 ## Roma, Italy: 4-Day Trip for 4 People (Budget: $4000 AUD)
 
