@@ -18,6 +18,7 @@ Required Modules:
 - geopy
 - python-dotenv
 - google.generativeai
+`pip install geopy python-dotenv google.generativeai`
 
 There are two ways to use this:
 - Input the gemini API key every time.
