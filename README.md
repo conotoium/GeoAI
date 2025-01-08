@@ -1,17 +1,25 @@
+# GeoAI
+
 This tool uses gemini generative AI to assist in the trip planning process.
 It was originally intended as a utility for another of my projects, And I decided to seperate it as a standalone.
 
-### Usage:
-There are two ways to use this:
-- Input the gemini API key every time.
-- Create a .env in the same directory and input your API key there.
+### Setup
 
-Run with python.
+Firstly grab yourself a Gemini API Key (free useage, decent rate limit) from https://aistudio.google.com/apikey/
+Next Download this python script.
 
+Use pip to install the required modules
 Required Modules:
 - geopy
 - python-dotenv
 - google.generativeai
+
+There are two ways to use this:
+- Input the gemini API key every time.
+- Create a .env in the same directory and input your API key there.
+
+Run with python (i.e. python3 GeoAI.py)
+
 
 # Example output
 
