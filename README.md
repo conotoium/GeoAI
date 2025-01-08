@@ -5,7 +5,7 @@ It was originally intended as a utility for another of my projects, And I decide
 
 ### Setup
 
-Firstly grab yourself a Gemini API Key (free useage, decent rate limit) from https://aistudio.google.com/apikey/
+Firstly grab yourself a Gemini API Key (free useage, decent rate limit) from https://aistudio.google.com/apikey/ <br>
 Next Download this python script.
 
 Use pip to install the required modules
