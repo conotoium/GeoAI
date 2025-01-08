@@ -1,4 +1,4 @@
-# GeoAI
+# GeoPlannerAI
 
 > [!NOTE]
 > This tool runs in command line.<br>
