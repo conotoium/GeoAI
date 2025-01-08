@@ -17,7 +17,7 @@ Use pip to install the required modules
 Required Modules:
 - geopy
 - python-dotenv
-- google.generativeai
+- google.generativeai<br>
 `pip install geopy python-dotenv google.generativeai`
 
 There are two ways to use this:
